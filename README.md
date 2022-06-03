@@ -20,9 +20,9 @@ Perceptrón Multicapa
 
 Una vez se implementan los modelos con las técnicas nombradas obtenemos las siguientes métricas y gráficas:
 
-![image](https://user-images.githubusercontent.com/47205790/171812137-0fd0c5e8-f3d9-491e-8455-8ee8b106bc74.png)
+                  ![image](https://user-images.githubusercontent.com/47205790/171812137-0fd0c5e8-f3d9-491e-8455-8ee8b106bc74.png)
 
-![image](https://user-images.githubusercontent.com/47205790/171816392-97e37a11-f227-4618-91d6-74808a97cbc1.png)
+                     ![image](https://user-images.githubusercontent.com/47205790/171816392-97e37a11-f227-4618-91d6-74808a97cbc1.png)
 
 # Conclusion
 
