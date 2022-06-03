@@ -38,7 +38,9 @@ Cabe resaltar y anotar que los parámetros y base de análisis parte del uso de 
 1]	D. A. Delgadillo-Duran, C. A. Vargas-García, V. M. Varón-Ramírez, F. Calderón, A. C. Montenegro, and P. H. Reyes-Herrera, “Using vis-NIRS and Machine Learning methods to diagnose sugarcane soil chemical properties,” Dec. 2020, Accessed: Feb. 23, 2022. [Online]. Available: https://arxiv.org/abs/2012.12995v3
 ![image](https://user-images.githubusercontent.com/47205790/171818435-9d026a0b-b80e-4605-976c-6727aeba9ef5.png)
 
-
+# Link Video
+https://youtu.be/fVikojpfzRE
+Proyecto Final IA Agro
 
 
 
