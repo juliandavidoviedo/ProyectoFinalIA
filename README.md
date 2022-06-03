@@ -25,7 +25,10 @@ Una vez se implementan los modelos con las técnicas nombradas obtenemos las sig
 
  
 ![image](https://user-images.githubusercontent.com/47205790/171816392-97e37a11-f227-4618-91d6-74808a97cbc1.png)
- </p>
+
+</p>
+
+
 # Conclusion
 
 Los métodos implementados por las métricas obtenidas nos permiten concluir que a pesar de que para SVR se aplicó una optimización de hiperparámetros por GridSearchCV no se obtuvieron buenos resultados con estos regresores. Se analizó el sobre entrenamiento que sufre el modelo al repetirlo, sin embargo, las funciones de pérdida nos indican con un valor significativo que el modelo no se comporta de manera correcta, en ninguna de las técnica aplicadas, en especial en el perceptrón multicapa, asi que como continuidad a este proyecto recomendamos hacer una optimización de los parámetros, usar una red neuronal más robusta y además usar validación cruzada en este método para obtener un mejor análisis. 
